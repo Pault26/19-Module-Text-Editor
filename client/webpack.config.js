@@ -3,7 +3,6 @@ const WebpackPwaManifest = require('webpack-pwa-manifest');
 const path = require('path');
 const { InjectManifest } = require('workbox-webpack-plugin');
 
-// Add and configure workbox plugins for a service worker, manifest file, CSS loaders and babel to webpack
 module.exports = () => {
   return {
     mode: 'development',
@@ -31,7 +30,7 @@ module.exports = () => {
         start_url: '/',
         publicPath: '/',
         fingerprints: false,
-        background_color: '#FFFFFF',
+        background_color: '#d0033',
         theme_color: '#a8ff80',
         inject: true,
         icons : [

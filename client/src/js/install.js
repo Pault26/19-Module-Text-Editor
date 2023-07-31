@@ -11,6 +11,7 @@ butInstall.addEventListener('click', async () => {
     if (!promptEvent) {
         return;
     }
+    
     promptEvent.prompt();
     window.deferredPrompt = null;
     butInstall.style.visibility = 'hidden';
