@@ -31,7 +31,7 @@ module.exports = () => {
         start_url: '/',
         publicPath: '/',
         fingerprints: false,
-        background_color: '#d0033',
+        background_color: '#FFFFFF',
         theme_color: '#a8ff80',
         inject: true,
         icons : [
