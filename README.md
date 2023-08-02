@@ -184,7 +184,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/Pault26/19-Module-Text-Editor/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/paul-tuemler/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /assets/01-manifest.png
 [HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://www.w3schools.com/html/
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
